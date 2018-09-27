@@ -1,5 +1,4 @@
 # hello-world
-first test repository
 
 Hello, nice to meet you all.
 
